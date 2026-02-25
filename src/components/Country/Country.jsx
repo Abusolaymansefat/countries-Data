@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Country = () => {
+          return (
+                    <div>
+                           <h4>Country Component</h4>   
+                    </div>
+          );
+};
+
+export default Country;
