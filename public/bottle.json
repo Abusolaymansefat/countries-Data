@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure Steel Bottle",
+    "brand": "AquaPure",
+    "capacity_ml": 750,
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "price": 850,
+    "weight_gram": 420,
+    "shape": "Slim",
+    "image": "https://example.com/images/aquapure.jpg"
+  },
+  {
+    "id": 2,
+    "name": "FreshSip Plastic Bottle",
+    "brand": "FreshSip",
+    "capacity_ml": 1000,
+    "material": "BPA-Free Plastic",
+    "color": "Blue",
+    "price": 450,
+    "weight_gram": 250,
+    "shape": "Round",
+    "image": "https://example.com/images/freshsip.jpg"
+  },
+  {
+    "id": 3,
+    "name": "EcoHydrate Glass Bottle",
+    "brand": "EcoHydrate",
+    "capacity_ml": 600,
+    "material": "Glass",
+    "color": "Transparent",
+    "price": 950,
+    "weight_gram": 500,
+    "shape": "Cylinder",
+    "image": "https://example.com/images/ecohydrate.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ChillMate Insulated Bottle",
+    "brand": "ChillMate",
+    "capacity_ml": 900,
+    "material": "Double Wall Stainless Steel",
+    "color": "Black",
+    "price": 1200,
+    "weight_gram": 650,
+    "shape": "Sport",
+    "image": "https://example.com/images/chillmate.jpg"
+  },
+  {
+    "id": 5,
+    "name": "SportyFlow Water Bottle",
+    "brand": "SportyFlow",
+    "capacity_ml": 500,
+    "material": "Tritan Plastic",
+    "color": "Red",
+    "price": 600,
+    "weight_gram": 200,
+    "shape": "Compact",
+    "image": "https://example.com/images/sportyflow.jpg"
+  }
+]
